@@ -2,11 +2,12 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-10-16 16:35:47 +0200
+variable: "./img"
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-![bandeja3](https://dribbble.com/shots/16049492-Dise-o-de-Post-para-Instagram?utm_source=Clipboard_Shot&utm_campaign=ivanjvic&utm_content=Dise%C3%B1o%20de%20Post%20para%20Instagram&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=ivanjvic&utm_content=Dise%C3%B1o%20de%20Post%20para%20Instagram&utm_medium=Social_Share)
+![bandeja3](variable/bandeja3.png)
 bandeja3.png
 
 
