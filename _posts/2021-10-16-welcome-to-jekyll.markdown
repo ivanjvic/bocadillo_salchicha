@@ -6,7 +6,9 @@ categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-![bandeja3](./img/bandeja3.png)
+![bandeja3](https://github.com/ivanjvic/images/blob/23fa2d05ca8411156af084a2c69489896dc7e3e8/bandeja3.png)
+bandeja3.png
+
 
 Jekyll requires blog post files to be named according to the following format:
 
