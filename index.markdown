@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Mi nuevo blog
+Aqui encontraras un registro del proceso en el que retomo la práctica del diseño Web Front - End con HTML, CSS y Javascript. Tambien relatare sobre mi experiencia en temas como  ventas, redes sociales y marketing digital.
