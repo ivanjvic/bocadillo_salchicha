@@ -25,10 +25,10 @@ layout: default
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%F" -%}
     {%- for post in posts -%}
-    <li style="list-style-type: none;">
+    <li style="list-style-type: none; margin-bottom: 2em;">
       <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" style="font-size: 1.3em; font-family: Roboto; color: #333;" href="{{ post.url | relative_url }}">
+      <h3 style="margin: 0;">
+        <a class="post-link" style="font-size: 1.2em; font-family: Roboto; color: #333;" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
       </h3>
