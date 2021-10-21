@@ -10,7 +10,7 @@
     <div>
       {%- include header.html -%}
 
-      <div style="width: 75%; margin: 0 auto;">
+      <div style="margin: 0 auto; padding-bottom: 2em; width: 75%;">
         {%- assign date_format = site.minima.date_format | default: "%F" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h2 class="post-title" style="font-family: Roboto; font-size: 2em; margin-top: 1.2em;">{{ page.title }}</h2>
