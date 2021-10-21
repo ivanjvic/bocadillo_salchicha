@@ -6,11 +6,12 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/main.css">
   </head>
-  <body>
+  <body style="margin: 0; padding: 0;">
     <div>
       {%- include header.html -%}
 
       <div style="width: 75%; margin: 0 auto;">
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h2 class="post-title" style="font-family: Roboto; font-size: 2em; margin-top: 1.2em;">{{ page.title }}</h2>
         <div class="page-content" style=" font-family: 'Piazzolla'; font-size: 1.4em;">
           {{ content }}
