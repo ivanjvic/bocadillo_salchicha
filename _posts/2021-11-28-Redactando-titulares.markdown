@@ -5,8 +5,6 @@ date:   2021-11-28
 categories: jekyll update
 ---
 
-#Redactando titulares#
-
 Recientemente retome la gestión del perfil de Instagram de [@jupitermaturin](https://www.instagram.com/jupitermaturin/?hl=es), tras algo más de medio año de estar inactiva sin ningún tipo de publicación. 
 
 Una vez realizada la planificación de los contenidos a publicar en cada post, y el diseño de imágenes de cada uno de ellos, la siguiente tarea será la de elaborar los titulares que acompañaran a dichos posts.
