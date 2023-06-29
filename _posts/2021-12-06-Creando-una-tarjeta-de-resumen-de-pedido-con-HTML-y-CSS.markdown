@@ -11,6 +11,6 @@ Para lograrlo, no se ponen limitantes a las herramientas a emplear. Por lo tanto
 
 En los siguientes enlaces puedes ver el resultado final de mi solucion y el repositorio en el que se alojan los archivos de dicha solución:
 
-- [Resultado Final] (https://ivanjvic.github.io/order-summary-card-solution/)
+- [Resultado Final](https://ivanjvic.github.io/order-summary-card-solution/)
 - [Repositorio de la solución](https://github.com/ivanjvic/order-summary-card-solution)
 
