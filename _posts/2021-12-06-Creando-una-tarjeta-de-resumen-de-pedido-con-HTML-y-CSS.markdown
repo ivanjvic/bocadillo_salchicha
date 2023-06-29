@@ -9,10 +9,8 @@ El reto [_Order summary component_](https://www.frontendmentor.io/challenges/ord
 
 Para lograrlo, no se ponen limitantes a las herramientas a emplear. Por lo tanto, en este primer reto utilice el posicionamiento flotante para la disposición de los distintos elementos que forman parte de este componente.
 
-A continuación, se muestra una lista con cada uno de los pasos que lleve a cabo para el logro de este reto:
+En los siguientes enlaces puedes ver el resultado final de mi solucion y el repositorio en el que se alojan los archivos de dicha solución:
 
-1. [Disposición y medidas de los elementos](https://medium.com/@ivanjvic/disposición-y-medidas-de-los-elementos-de-una-tarjeta-de-resumen-de-pedido-reto-de-frontend-d03d4b52dd89)
-2. Maquetación de los elementos
-3. Codificación
-4. Pruebas
- 
+- [Resultado Final] (https://ivanjvic.github.io/order-summary-card-solution/)
+- [Repositorio de la solución](https://github.com/ivanjvic/order-summary-card-solution)
+
