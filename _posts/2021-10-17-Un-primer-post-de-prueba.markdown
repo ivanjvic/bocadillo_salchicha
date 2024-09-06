@@ -14,7 +14,7 @@ Jekyll requires blog post files to be named according to the following format:
 
 <div text-align="center">
   
-<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/pruebablog1.png" alt="drawing" width="70%" text-align="center" />
+<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/pruebablog1.png" alt="drawing" width="70%" display="block" />
 
 </div>
 
