@@ -1,0 +1,13 @@
+@media screen and (max-width: 480px) {
+    img {
+        display: block;
+        max-width: 50%;
+        margin: 0 auto;
+    }
+
+ @media screen and (min-width: 481px) and (max-width: 768px) {
+    img {
+        max-width: 50%;
+        margin: 0 auto;
+        display: block;
+    }
