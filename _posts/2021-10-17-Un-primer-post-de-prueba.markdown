@@ -12,9 +12,9 @@ Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
-<div text-align="center">
+<div>
   
-<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/pruebablog1.png" alt="drawing" width="70%" display="block" />
+<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/pruebablog1.png" alt="drawing" width="70%" margin="auto" display="block" />
 
 </div>
 
