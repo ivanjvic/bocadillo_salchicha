@@ -9,7 +9,10 @@ Despues de diseñar la imagen para una publicación en el perfil de Instagram de
 
 En este caso, el protagonismo de la publicación es para una [sierra cinta para huesos](https://www.boia.com.ve/venta-de-maquinaria-para-alimentos/--sierra-para-picar-cortar-carne-y-hueso--/:sierra-cinta-para-huesos-segaosso-25-de-78-Acirc;-acute;-Acirc;-acute;-1:/), equipo utilizado para la preparación de carnes en pequeñas carnicerías.  
 
-De esta manera, comence la redaccion del copy, evitando sucumbir ante los titulares muy repetidos del tipo “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”; y buscando la forma de que comunicaran, a grandes rasgos, una característica importante del equipo  expuesto en el post.  
+De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busque como comunicar una característica importante del equipo junto a los beneficios que estas pueden ofrecer. 
+
+
+
 
 Tras indagar un poco, me pareció interesante seguir la extensa guía de **Ivo Fiz** sobre [Como Crear Títulos Originales y Llamativos](https://ivofiz.com/titulos-originales/), en la que entre otros aspectos, recomienda el uso de hasta 18 fórmulas para la redacción de titulares. También encontré de mucha utilidad, responder antes de redactar el copy de una publicación, las siguientes preguntas que menciona **Robert W. Bly** en su libro [The Copywriters Handbook](https://www.amazon.es/Copywriters-Handbook-Step-Step-Writing/dp/1250238013):
 
