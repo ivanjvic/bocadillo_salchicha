@@ -9,7 +9,7 @@ Despues de diseñar la imagen para una publicación en el perfil de Instagram de
 
 En este caso, el protagonismo de la publicación es para una [sierra cinta para huesos](https://www.boia.com.ve/venta-de-maquinaria-para-alimentos/--sierra-para-picar-cortar-carne-y-hueso--/:sierra-cinta-para-huesos-segaosso-25-de-78-Acirc;-acute;-Acirc;-acute;-1:/), equipo utilizado para la preparación de carnes en pequeñas carnicerías.  
 
-De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busque como comunicar una característica importante del equipo junto a los beneficios que estas pueden ofrecer. 
+De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busqué como mencionar al equipo junto a un beneficio importante que el mismo pueda ofrecer a quien lo use.
 
 
 
