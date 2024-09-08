@@ -9,8 +9,9 @@ Despues de diseñar la imagen para una publicación en el perfil de Instagram de
 
 En este caso, el protagonismo de la publicación es para una [sierra cinta para huesos](https://www.boia.com.ve/venta-de-maquinaria-para-alimentos/--sierra-para-picar-cortar-carne-y-hueso--/:sierra-cinta-para-huesos-segaosso-25-de-78-Acirc;-acute;-Acirc;-acute;-1:/), equipo utilizado para la preparación de carnes en pequeñas carnicerías.  
 
-De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busqué como mencionar al equipo junto a un beneficio importante que el mismo pueda ofrecer a quien lo use.
+De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busqué mencionar, de manera general, al equipo junto a un beneficio importante que el mismo pueda ofrecer a quien lo use.
 
+> Corta fácilmente todo tipo de carnes con la ayuda de la 𝗦𝗶𝗲𝗿𝗿𝗮 𝗖𝗶𝗻𝘁𝗮 𝗣𝗮𝗿𝗮 𝗛𝘂𝗲𝘀𝗼𝘀 𝗦𝗲𝗴𝗮𝗼𝘀𝘀𝗼 𝟮𝟱𝟭𝟬𝟭.
 
 
 
