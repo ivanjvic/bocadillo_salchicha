@@ -22,12 +22,7 @@ De esta manera, el titular resultante fue el siguiente:
 En el siguiente parrafo, mencione otras dos caracteristicas junto a los beneficios que brinda cada una:
 
 > Gracias a su **motor de 1HP**, puede *realizar cortes de carne precisos y uniformes para ser presentados de manera perfecta a tus clientes*
+
 > ...al ser una **sierra de mostrador**, es más pequeña en comparación con un modelo de suelo alternativo, por lo que *solo ocupará un espacio reducido en tu negocio*
 
-
-
-Tras indagar un poco, me pareció interesante seguir la extensa guía de **Ivo Fiz** sobre [Como Crear Títulos Originales y Llamativos](https://ivofiz.com/titulos-originales/), en la que entre otros aspectos, recomienda el uso de hasta 18 fórmulas para la redacción de titulares. También encontré de mucha utilidad, responder antes de redactar el copy de una publicación, las siguientes preguntas que menciona **Robert W. Bly** en su libro [The Copywriters Handbook](https://www.amazon.es/Copywriters-Handbook-Step-Step-Writing/dp/1250238013):
-
-
-
-Así que, con estas dos herramientas comencé con la redacción de los siguientes copys:
+En este [enlace](https://www.instagram.com/p/C2hexObguyL/) al perfil de [@jupitermaturin](https://www.instagram.com/jupitermaturin/?hl=es) se puede ver la publicacion al completo.
