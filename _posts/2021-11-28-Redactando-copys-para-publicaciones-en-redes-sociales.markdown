@@ -17,9 +17,12 @@ De esta manera, comencé con la redacción del titular del copy, y en lugar de s
 
 De esta manera, el titular resultante fue el siguiente:
 
-> **Corta fácilmente todo tipo de carnes con la ayuda de la 𝗦𝗶𝗲𝗿𝗿𝗮 𝗖𝗶𝗻𝘁𝗮 𝗣𝗮𝗿𝗮 𝗛𝘂𝗲𝘀𝗼𝘀 𝗦𝗲𝗴𝗮𝗼𝘀𝘀𝗼 𝟮𝟱𝟭𝟬𝟭**
+> **Corta fácilmente todo tipo de carnes con la ayuda de la Sierra Cinta para Huesos Segaosso 2510𝟭**
 
-En el siguiente parrafo
+En el siguiente parrafo, mencione otras dos caracteristicas junto a los beneficios que brinda cada una:
+
+> Gracias a su **motor de 1HP**, puede *realizar cortes de carne precisos y uniformes para ser presentados de manera perfecta a tus clientes*
+> ...al ser una **sierra de mostrador**, es más pequeña en comparación con un modelo de suelo alternativo, por lo que *solo ocupará un espacio reducido en tu negocio*
 
 
 
