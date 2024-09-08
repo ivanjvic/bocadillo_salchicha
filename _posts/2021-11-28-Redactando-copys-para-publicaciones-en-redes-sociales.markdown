@@ -12,7 +12,7 @@ En este caso, el protagonismo de la publicación es para una [sierra cinta para 
 <br>
 <div style="display: flex; justify-content: center;">
   
-<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/sierracinta.png" alt="post sierra cinta" width="70%" />
+<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/sierrahueso.png" alt="post sierra cinta" width="70%" />
 
 </div>
 
