@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Redactando copys para publicaciones en redes sociales"
-date:   2021-11-28
+title:  "Redactando copys para publicaciones en redes sociales I"
+date:   2024-01-20
 categories: jekyll update
 ---
 
-Recientemente retome la gestión del perfil de Instagram de [@jupitermaturin](https://www.instagram.com/jupitermaturin/?hl=es), tras algo más de medio año de estar inactiva sin ningún tipo de publicación. 
+Despues de diseñar la imagen para una publicación en el perfil de Instagram de [@jupitermaturin](https://www.instagram.com/jupitermaturin/?hl=es), el siguiente paso fue la redacción del copy que acompañara a dicha imagen. 
 
-Una vez realizada la planificación de los contenidos a publicar en cada post, y el diseño de imágenes de cada uno de ellos, la siguiente tarea será la de redactar el texto que acompañara a dichos posts.
+En este caso, el protagonismo de la publicación es para una [sierra cinta para huesos](https://www.boia.com.ve/venta-de-maquinaria-para-alimentos/--sierra-para-picar-cortar-carne-y-hueso--/:sierra-cinta-para-huesos-segaosso-25-de-78-Acirc;-acute;-Acirc;-acute;-1:/), equipo utilizado para la preparación de carnes en pequeñas carnicerías.
+
+
+
+
 
 Para ello, en vez de iniciar dichos textos sucumbiendo ante los titulares muy repetidos del tipo “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”; busque la forma de que comunicaran, a grandes rasgos, una característica o beneficio importante del producto expuesto en el post.
 
