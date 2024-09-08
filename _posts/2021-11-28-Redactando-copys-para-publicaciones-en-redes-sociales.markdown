@@ -11,13 +11,13 @@ En este caso, el protagonismo de la publicación es para una [sierra cinta para 
 
 De esta manera, comencé con la redacción del titular del copy, y en lugar de sucumbir ante los muy repetidos “*x producto es tu mejor opción*”, “*x producto se adapta a tus necesidades*" o “*ven y compra ya*”, busqué mencionar, de manera general, al equipo junto a un beneficio importante que el mismo pueda ofrecer a quien lo use. Para ello, me resultó de utilidad responder las siguientes preguntas que menciona **Robert W. Bly** en su libro [The Copywriters Handbook](https://www.amazon.es/Copywriters-Handbook-Step-Step-Writing/dp/1250238013) al momento de redactar encabezados:
 
-- ¿Quién es mi cliente? Dueños de pequeñas carnicerias.
-- ¿Cuáles son las características importantes del producto? Motor de 1HP, fabricada en acero inoxidable, tamaño compacto para espacios reducidos, entre otras.
-- ¿Por qué el cliente quiere comprar el producto? Facil manejo, materiales de calidad, realización de cortes precisos a todo tipo de carnes, entre otros.
+- **¿Quién es mi cliente?** *Dueños de pequeñas carnicerias*
+- **¿Cuáles son las características importantes del producto?** *Motor de 1HP, fabricada en acero inoxidable, tamaño compacto para espacios reducidos, entre otras*
+- **¿Por qué el cliente quiere comprar el producto?** *Facil manejo, materiales de calidad, realización de cortes precisos a todo tipo de carnes, entre otros*
 
 De esta manera, el titular resultante fue el siguiente:
 
-> Corta fácilmente todo tipo de carnes con la ayuda de la 𝗦𝗶𝗲𝗿𝗿𝗮 𝗖𝗶𝗻𝘁𝗮 𝗣𝗮𝗿𝗮 𝗛𝘂𝗲𝘀𝗼𝘀 𝗦𝗲𝗴𝗮𝗼𝘀𝘀𝗼 𝟮𝟱𝟭𝟬𝟭.
+> **Corta fácilmente todo tipo de carnes con la ayuda de la 𝗦𝗶𝗲𝗿𝗿𝗮 𝗖𝗶𝗻𝘁𝗮 𝗣𝗮𝗿𝗮 𝗛𝘂𝗲𝘀𝗼𝘀 𝗦𝗲𝗴𝗮𝗼𝘀𝘀𝗼 𝟮𝟱𝟭𝟬𝟭**
 
 En el siguiente parrafo
 
