@@ -9,6 +9,13 @@ Despues de diseñar la imagen para una publicación en el perfil de Instagram de
 
 En este caso, el protagonismo de la publicación es para una [sierra cinta para huesos](https://www.boia.com.ve/venta-de-maquinaria-para-alimentos/--sierra-para-picar-cortar-carne-y-hueso--/:sierra-cinta-para-huesos-segaosso-25-de-78-Acirc;-acute;-Acirc;-acute;-1:/), equipo utilizado para la preparación de carnes en pequeñas carnicerías.
 
+<br>
+<div style="display: flex; justify-content: center;">
+  
+<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/sierracinta.png" alt="post sierra cinta" width="70%" />
+
+</div>
+
 
 
 
