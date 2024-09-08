@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redactando copys para publicaciones en redes sociales I"
+title:  "Redactando copys para publicaciones en redes sociales"
 date:   2024-01-20
 categories: jekyll update
 ---
