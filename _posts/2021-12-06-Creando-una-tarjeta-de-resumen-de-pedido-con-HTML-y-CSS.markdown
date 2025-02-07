@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creando Una Tarjeta De Resumen De Pedido Con Html Y Css"
-date:   2021-12-06
+date:   2022-12-06
 categories: jekyll update
 ---
 
