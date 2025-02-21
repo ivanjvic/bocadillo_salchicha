@@ -18,7 +18,7 @@ Tras iluminar el equipo surgió otra dificultad: todo lo que estaba a su alreded
 <br>
 <div style="display: flex; justify-content: center;">
   
-<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/prepsierra.png" alt="drawing" width="70%" />
+<img src="https://ivanjvic.github.io/bocadillo_salchicha/img/prep-sierra.png" alt="drawing" width="70%" />
 
 </div>
 
