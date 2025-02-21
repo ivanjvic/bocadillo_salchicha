@@ -15,7 +15,6 @@ Para comenzar con el diseño de la publicación, planeé la realización de las 
 Tras iluminar el equipo surgió otra dificultad: todo lo que estaba a su alrededor se reflejaba en su superficie. Otros equipos de la exhibición, e incluso las baldosas del piso, se veían reflejadas, en mayor o menor medida, en la superficie metálica de la sierra. Para resolverlo, puse a su alrededor varias láminas de cartón-piedra restantes de una remodelación reciente y algunos pliegos de cartulina de color gris. Ambos elementos eliminaron los reflejos no deseados y rebotaron la luz que entraba por el ventanal, lo que permitió ademas, iluminar otras zonas de la sierra.
 
 
-
 <br>
 <div style="display: flex; justify-content: center;">
   
@@ -24,5 +23,6 @@ Tras iluminar el equipo surgió otra dificultad: todo lo que estaba a su alreded
 </div>
 
 
+Finalmente, coloque el telefono a la derecha de equipo, en un angulo que me permitiera captar la parte frontal y uno de los laterales del equipo, con el proposito de dar una mayor sensacion de tridimensionalidad al equipo.
 
-
+En el siguiente [enlace](https://www.instagram.com/p/C2hexObguyL/) puedes acceder al perfil de Jupiter Maturin en Instagram y ver el resultado final de la publicación de la sierra Segaosso. Tambien puedes ver en este [enlace](https://ivanjvic.github.io/bocadillo_salchicha/jekyll/update/2024/01/20/Redactando-copys-para-publicaciones-en-redes-sociales.html) como redacte el copy que acompaña a la imagen de esta publicación.
